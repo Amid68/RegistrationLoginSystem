@@ -1,0 +1,20 @@
+# Ignore the .idea folder
+.idea/
+
+# Ignore build files
+/build/
+
+# Ignore executables
+*.exe
+*.out
+*.o
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore temporary files
+*~
+*.log
